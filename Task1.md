@@ -10,6 +10,6 @@ In this task, you will using the console inspector to explore variables and Java
 8. Back to the console, create numerical variables and try to add, subtract, multiply and divide them. Take one of the variable and try to divide by 0. Does your website crash?
 9. Going back to the first variables you created, set the variable of your first variable, to the second variable. To do this, type `myName = <yourSecondVariable>`. Now try to change `myName`-is it possible? Why do you think so?
 
-[ ] I have completed this task
+[ x] I have completed this task
 
  Now complete Task 2.
