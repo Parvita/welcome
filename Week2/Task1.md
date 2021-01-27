@@ -12,8 +12,11 @@ In this task you will build on what you have done last week, so please ensure yo
    5. If the variable `fullName` is equal to the total of `firstName` and `lastName`. If it is, print out the message `They are the same.`
    6. If `fullName` is **the same as** `firstName+lastName`
 
-## Challenge (You should attempt this)
+## Challenge 1 (You should attempt this)
 You will now create a simple timer. Create a variable with the value of 60. *While* the variable is not equal to 0, display the current value and subtract one from it. When it reaches 0 the message should say "Time's up!"
+
+## Challenge 2 (You should attempt this)
+Recreate the shopping till example we covered in class, but this time, make it based on the number of people in the queue.
 
 
 
